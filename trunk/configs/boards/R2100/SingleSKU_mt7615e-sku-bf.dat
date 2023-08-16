@@ -2,8 +2,8 @@
 # 2.4G Channel                                                   
 Band: 2.4G MaxPower_4T MaxPower_3T MaxPower_2T                                                
 Ch1 14 14 13                                                
-Ch2 12 11 17                                                
-Ch3 16 11 12                                                
+Ch2 17 11 17                                                
+Ch3 18 11 12                                                
 Ch4 7 11 7                                                
 Ch5 12 15 13                                                
 Ch6 11 14 9                                                
@@ -27,8 +27,8 @@ Ch12 11 10 16
 Ch16 12 13 11                                                
 Ch36 9 9 12                                                
 Ch40 7 15 7                                                
-Ch44 17 15 13                                                
-Ch48 8 7 8                                                
+Ch44 18 15 13                                                
+Ch48 17 7 8                                                
 Ch52 8 11 10                                                
 Ch56 11 10 11                                                
 Ch60 7 6 15                                                
